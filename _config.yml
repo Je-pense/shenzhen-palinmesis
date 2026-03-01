@@ -9,7 +9,7 @@ author:
   url: 'https://je-pense.github.io/'
 
 # Build settings
-baseurl: /2145 # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /shenzhen-palinmesis/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
